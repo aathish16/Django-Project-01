@@ -1,0 +1,28 @@
+.a{
+    background-color: black;
+    padding: 40px;
+    color: burlywood;
+    border: 1px solid greenyellow;
+}
+.b{
+    border: 5px solid palegoldenrod;
+    padding: 30px;
+    color: seagreen;
+    text-decoration: double;
+    background-color: aqua;
+    float: right;
+}
+
+img{
+    float:right;
+    padding: 60px;
+    background-color: hotpink;
+}
+
+h1{
+    background-color: chocolate;
+    color: white;
+}
+body{
+    background-color: violet ;
+}
